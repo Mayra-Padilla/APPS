@@ -10,8 +10,8 @@
     <string name="btnUsuarios">Usuarios</string>
     <string name="btnPedidos">Pedidos</string>
     <string name="btnSalir">Salir</string>
+    <!-- Agregado -->
     <string name="txtUsuarios">Usuarios</string>
-
     <string name="txtLetreroInfo">Informes</string>
     <string name="txtLetreroReportes">Reportes</string>
 </resources>
