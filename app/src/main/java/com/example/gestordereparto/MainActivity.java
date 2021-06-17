@@ -30,5 +30,6 @@ public class MainActivity extends AppCompatActivity {
     public void irOtraPagina(View view){
         Intent siguiente = new Intent(this, menu_botones.class);
         startActivity(siguiente);
+
     }
 }
