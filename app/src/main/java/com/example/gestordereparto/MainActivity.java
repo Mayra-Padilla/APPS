@@ -7,7 +7,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.ImageView;
-
+//Gestor de reparto
 public class MainActivity extends AppCompatActivity {
     private ImageView logo;
     private Button btnIniciar;
