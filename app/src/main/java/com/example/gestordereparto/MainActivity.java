@@ -18,6 +18,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         logo = (ImageView)findViewById(R.id.idLogo);
         logo.setBackgroundDrawable(null);
+        //btn
         btnIniciar = (Button)findViewById(R.id.btnInicioSesion);
         btnIniciar.setOnClickListener(new View.OnClickListener() {
             @Override

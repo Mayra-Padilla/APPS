@@ -13,4 +13,5 @@
     <!-- Agregado -->
     <string name="txtUsuarios">Usuarios</string>
     <string name="txtLetreroInfo">Informes</string>
+    <string name="txtLetreroReportes">Reportes</string>
 </resources>
