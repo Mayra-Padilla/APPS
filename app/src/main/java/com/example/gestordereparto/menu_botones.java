@@ -10,6 +10,7 @@ import android.widget.ImageButton;
 
 public class menu_botones extends AppCompatActivity {
     private ImageButton info;
+    private ImageButton usuarios;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
